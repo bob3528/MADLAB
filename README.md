@@ -2,4 +2,6 @@
 
 Mobile Application Development LABS
 
-## Lab 1 - Basic Profile UI
+## LABS SO FAR:
+Lab 2 - Basic Profile UI
+Lab 3 - Profile Page With Cards
